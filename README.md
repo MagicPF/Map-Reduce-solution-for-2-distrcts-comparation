@@ -1,5 +1,5 @@
 # Map Reduce solution for 2 distrcts comparation
- MapReduce solution for 2 distrcts comparation
+Pesudo Code of MapReduce solution for 2 distrcts comparation
 This is the solution for question 5 in the assignment
 
 5(b) Because it is not easy to open two texts at the same time.
